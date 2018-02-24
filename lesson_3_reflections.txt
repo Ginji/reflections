@@ -26,9 +26,9 @@ You can solve the possible conflict locally (though it is not up-to-date).
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Exchange the files with collaborators. If you know them well and we know how to collaborate, it won't be a big problem. However, if you work on open source projects, it will be hard.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When you want to test something, I would make branch. Master is the base and it is where we can go back when the addition / changes don't work out.
